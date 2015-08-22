@@ -1,3 +1,6 @@
+{going to build this out into the repository for the tokens2.0 codebase... lots of stuff coming soon, for now it's simply a fork of the cool work done for horse25519 ~pj}
+
+
 ## horse25519 - An Ed25519 vanity public key generator
 ### Yawning Angel (yawning at torproject dot org)
 
